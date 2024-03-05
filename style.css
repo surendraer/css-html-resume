@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    background-color: aqua;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+img{
+    border: 10px solid yellowgreen;
+    height: 150px;
+    border-radius: 10%;
+    
+}
+h2{
+    color: blueviolet;
+    border-style: dotted;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+footer{
+    background-color: blue;
+    padding: 30px;
+    font-size: 20px;
+}
+ul,p{
+    margin-left: 4%;
+}
